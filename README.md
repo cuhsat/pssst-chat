@@ -2,6 +2,8 @@ Pssst Chat
 ==========
 A simple `ncurses` based chat for [Pssst](https://github.com/cuhsat/pssst).
 
+![Pssst Chat](doc/pssst-chat.png)
+
 Usage
 -----
 ```
