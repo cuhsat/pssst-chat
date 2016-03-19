@@ -30,7 +30,7 @@ except ImportError:
     sys.exit("Requires Pssst (https://github.com/cuhsat/pssst)")
 
 
-__all__, __version__ = ["PssstChat"], "0.2.0"
+__all__, __version__ = ["PssstChat"], "0.2.1"
 
 
 class PssstChat:
@@ -49,7 +49,7 @@ class PssstChat:
 
     def __init__(self, profile):
         """
-        Initializes the instance with the given user name.
+        Initializes the instance with the given profile.
 
         Parameters
         ----------
