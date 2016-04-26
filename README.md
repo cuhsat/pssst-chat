@@ -7,7 +7,7 @@ A simple `ncurses` based chat for [Pssst](https://github.com/cuhsat/pssst).
 Usage
 -----
 ```
-$ pssst-chat [option|username|-]
+$ pssst-chat [option|username|~]
 ```
 
 Options
