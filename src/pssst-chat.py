@@ -30,7 +30,7 @@ except ImportError:
     sys.exit("Requires Pssst (https://github.com/cuhsat/pssst)")
 
 
-__all__, __version__ = ["PssstChat"], "0.2.1"
+__all__, __version__ = ["PssstChat"], "0.2.2"
 
 
 class PssstChat:
@@ -259,7 +259,7 @@ class PssstChat:
 
 def main(script, arg="--help", *args):
     """
-    Usage: %s [option|username|-]
+    Usage: %s [option|username|~]
 
     Options:
       -h, --help      Shows the usage
